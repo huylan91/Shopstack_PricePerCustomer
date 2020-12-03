@@ -1,0 +1,9 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Catalog\Pricing\Price\FinalPrice">
+        <plugin name="shopstack_price_catalog_pricing_price_finalprice" type="Shopstack\Price\Plugin\FinalPrice" />
+    </type>
+	<type name="Magento\Framework\App\Action\AbstractAction">
+    	<plugin name="customer-session-data-to-context" type="Shopstack\Price\Plugin\CustomerSessionContext" />
+    </type>
+</config>
