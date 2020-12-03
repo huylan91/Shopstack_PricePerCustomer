@@ -95,7 +95,7 @@ class Price implements ObserverInterface
 		(
 			$this->priceModel->getPrice
 			(
-				$observer->getProduct(), $observer->getProduct()->getFinalPrice()
+				$observer->getProduct()
 			)
 		);
 		
