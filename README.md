@@ -9,10 +9,10 @@ use configuration)</br>
 ● After customer login, he should be able to see the special price set for him within that
 schedule.</br>
 <h1>ScreenShot:</h1>
-<img width="45%" src="https://raw.githubusercontent.com/huylan91/images/main/Huy%20Lan%20%20%20Customers%20%20%20Customers%20%20%20Magento%20Admin.png" />
-<img width="45%" src="https://raw.githubusercontent.com/huylan91/images/main/category_before.png" />
-<img width="45%" src="https://raw.githubusercontent.com/huylan91/images/main/category_after.png" />
-<img width="45%" src="https://raw.githubusercontent.com/huylan91/images/main/test.png" />
-<img width="45%" src="https://raw.githubusercontent.com/huylan91/images/main/test(1).png" />
-<img width="45%" src="https://raw.githubusercontent.com/huylan91/images/main/Configurable%20Product.png" />
-<img width="45%" src="https://raw.githubusercontent.com/huylan91/images/main/Configurable%20Product(1).png" />
+<img  src="https://raw.githubusercontent.com/huylan91/images/main/Huy%20Lan%20%20%20Customers%20%20%20Customers%20%20%20Magento%20Admin.png" />
+<img  src="https://raw.githubusercontent.com/huylan91/images/main/category_before.png" />
+<img  src="https://raw.githubusercontent.com/huylan91/images/main/category_after.png" />
+<img  src="https://raw.githubusercontent.com/huylan91/images/main/test.png" />
+<img  src="https://raw.githubusercontent.com/huylan91/images/main/test(1).png" />
+<img  src="https://raw.githubusercontent.com/huylan91/images/main/Configurable%20Product.png" />
+<img  src="https://raw.githubusercontent.com/huylan91/images/main/Configurable%20Product(1).png" />
