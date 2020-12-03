@@ -175,6 +175,9 @@ class Price
 		 *
 		 * @var float
 		 */
+		if(!$final_price){
+			$final_price = $product->getPriceInfo()->getPrice('final_price')->getValue();
+		 }
 		$value = (float) $this->catalogData->getTaxPrice($product, $final_price,self::TAX,null,null,null, null,null,false);
 		
 		
